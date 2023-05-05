@@ -2,6 +2,7 @@ html{
     background-color:#EDF2C5;
     max-width: 1260px;
     height: 940px;
+    align-self: center;
 }
 body{
     align-self: center;
