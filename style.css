@@ -4,7 +4,7 @@ html{
     height: 940px;
 }
 body{
-    align:center;
+    align-self: center;
     margin-left: 160px;
 }
 .header{
