@@ -4,6 +4,7 @@ html{
     height: 940px;
 }
 body{
+    align:center;
     margin-left: 160px;
 }
 .header{
